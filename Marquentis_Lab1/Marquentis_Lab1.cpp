@@ -11,6 +11,7 @@ int main()
     std::cout << "Hello World!\n";
 
     cout << "Git makes collaboration easy!" << endl;
+    cout << "Mika was here." << endl;
 
 }
 
