@@ -13,6 +13,7 @@ int main()
 
     cout << "Git makes collaboration easy!" << endl;
     cout << "Mika was here." << endl;
+    cout << "Lab 1 completed on April 13, 2026!" << endl;
 
 }
 
